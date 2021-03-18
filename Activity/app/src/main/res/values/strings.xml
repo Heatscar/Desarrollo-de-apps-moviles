@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyActivity</string>
+    <string name="button">Nueva actividad</string>
+    <string name="txbNombre">Nombre</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnAtras">Atras</string>
+</resources>
