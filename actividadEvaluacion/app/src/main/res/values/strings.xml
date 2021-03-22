@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EvaluacionParcial</string>
+    <string name="nombre">Héctor Honorio Martínez Gamboa</string>
+    <string name="btnHome">Ir al conversor</string>
+    <color name="myColor">#F5F5F5</color>
+    <string name="celsius">A Celsius</string>
+    <string name="fahrenheit">A Fahrenheit</string>
+    <string name="calc">Calculate</string>
+</resources>

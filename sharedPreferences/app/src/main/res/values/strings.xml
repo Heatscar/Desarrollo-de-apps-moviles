@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferencesSearch</string>
+    <string name="txtTitulo">Busqueda en SharedPreferences</string>
+    <string name="btnForm">Ir al formulario</string>
+    <string name="busqueda">Busqueda</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="carrera">Carrera</string>
+    <string name="numeroControl">Numero de control</string>
+    <string name="guardar">Guardar</string>
+    <string name="busquedaNum">Busqueda por numero de control</string>
+</resources>
