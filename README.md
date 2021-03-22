@@ -1,5 +1,4 @@
-# Desarrollo-de-apps-moviles
-Prácticas de la materia
+# Desarrollo-de-apps-moviles: Prácticas de la materia
 
 # Calculadora.-
 Calculadora con las 4 operaciones básicas, usando imagenes en los botones.
